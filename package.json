@@ -1,5 +1,5 @@
 {
-  "name": "auto-router",
+  "name": "express-auto-router",
   "version": "0.2.0",
   "description": "auto read routes in the directory",
   "main": "index.js",
