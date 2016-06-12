@@ -1,0 +1,35 @@
+{
+  "name": "auto-router",
+  "version": "0.1.0",
+  "description": "auto read routes in the directory",
+  "main": "index.js",
+  "scripts": {
+    "release": "bash ./build/release.sh",
+    "example": "node ./example/app.js",
+    "test": "karma start build/karma.conf.js --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luojilab/auto-router.git"
+  },
+  "keywords": [
+    "express",
+    "auto",
+    "router"
+  ],
+  "author": {
+    "name": "yuqiu <yuqiu-1988@163.com>"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luojilab/auto-router/issues"
+  },
+  "homepage": "https://github.com/luojilab/auto-router#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "engines": {
+    "node": ">=5.2.0"
+  }
+}
