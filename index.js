@@ -2,7 +2,7 @@
  *
  * @authors yuqiu (yuqiu@luojilab.com)
  * @date    2016-03-07 15:09:01
- * @version $Id$
+ * @version 0.4.0
  */
 var path = require('path');
 var readdirSync = require('./lib/readdirSync');
