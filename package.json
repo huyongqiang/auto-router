@@ -1,6 +1,6 @@
 {
   "name": "express-auto-router",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "auto read routes in the directory",
   "main": "index.js",
   "scripts": {
